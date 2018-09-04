@@ -208,3 +208,10 @@ $string['viewcertificateviews'] = 'View {$a} issued certificates';
 $string['viewed'] = 'You received this certificate on:';
 $string['viewtranscript'] = 'View Certificates';
 $string['watermark'] = 'Watermark';
+
+$string['privacy:metadata:mod_certificate'] = 'Info about issued certificates';
+$string['privacy:metadata:mod_certificate:userid'] = 'User info';
+$string['privacy:metadata:mod_certificate:certificateid'] = 'Certificate info';
+$string['privacy:metadata:mod_certificate:code'] = 'Code info';
+$string['privacy:metadata:mod_certificate:timecreated'] = 'Time created info';
+$string['privacy:metadata:core_files'] = 'Files linked to issued certificates are stored using the core_files system';
